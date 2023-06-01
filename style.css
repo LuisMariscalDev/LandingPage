@@ -54,6 +54,7 @@ body {
 .texto{
         font-weight: 700;
         font-size: 10px;
+        width: 100%;
         text-transform: uppercase;
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     }
